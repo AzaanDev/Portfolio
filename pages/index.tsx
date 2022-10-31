@@ -14,7 +14,7 @@ const Home: NextPage = () => {
     overflow-y-scroll overflow-x-hidden z-0 scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#4099ff]"
     >
       <Head>
-        <title>Azaan's Portfolio</title>
+        <title>Azaan&apos;s Portfolio</title>
       </Head>
       <Header />
       <section id="Profile" className="snap-start">
