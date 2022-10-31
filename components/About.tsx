@@ -13,10 +13,10 @@ export default function About({}: Props) {
         About
       </h3>
       <div className="space-y-10 px-0 md:px-10">
-        <p className="text-md ">
-          Hello, I'm Azaan Ali! I am a recent graduate from CUNY Hunter College with a Bachelor of Arts in 
+        <p className="text-lg text-center px-[100px]">
+          {`Hello, I'm Azaan Ali! I am a recent graduate from CUNY Hunter College with a Bachelor of Arts in 
           Computer Science. I have worked on frontend development using various open source frameworks as 
-          will as backend apis and databases. Also, I have worked on complex software utilizing C++.
+          will as backend apis and databases. Also, I have worked on complex software such as emulators and game development utilizing C++.`}
         </p>
       </div>
     </div>
