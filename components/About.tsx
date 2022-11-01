@@ -12,6 +12,10 @@ export default function About({}: Props) {
       <h3 className="absolute top-24 uppercase pl-10 tracking-[20px] text-gray-500 text-2xl">
         About
       </h3>
+      <img
+          src="/self.jpg"
+          className="-mb-20 flex-shrink-0 md:mb-0 w-56 h-56 rounded-full object-cover md:rouned-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[500px]"
+        ></img>
       <div className="space-y-10 px-0 md:px-10">
         <p className="text-lg text-center px-[100px]">
           {`Hello, I'm Azaan Ali! I am a recent graduate from CUNY Hunter College with a Bachelor of Arts in 
